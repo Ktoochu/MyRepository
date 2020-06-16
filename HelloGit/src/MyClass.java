@@ -7,6 +7,7 @@ public class MyClass {
 		System.out.println("Change Git...");
 		
 		new MyHello().sayHello();
+		System.out.println("sayHell()");
 	}
 
 }
